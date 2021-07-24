@@ -1,10 +1,9 @@
 package arrayconcept;
-import java.util.Arrays;
 
 public class ArrayConcept {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
 		//Find the minimum and maximum element in an array
 		
