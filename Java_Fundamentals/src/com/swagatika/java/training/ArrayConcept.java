@@ -1,4 +1,4 @@
-package arrayconcept;
+package com.swagatika.java.training;
 
 public class ArrayConcept {
 
