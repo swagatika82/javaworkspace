@@ -4,7 +4,6 @@ public class ArrayConcept {
 
 	public static void main(String[] args) {
 		
-
 		//Find the minimum and maximum element in an array
 		
 		int[] arr=new int[] {9,15,11,3,17,5};
